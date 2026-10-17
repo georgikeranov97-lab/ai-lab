@@ -1,0 +1,6 @@
+packages:
+  - "exercises/*"
+  - "apps/*"
+allowBuilds:
+  esbuild: false
+  unrs-resolver: false
